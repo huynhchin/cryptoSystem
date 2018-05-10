@@ -1,8 +1,4 @@
 import random
-# Prime p = 719
-# Primitive root a = 11
-# Private key A = 697
-# Public key B = 614
 
 def sign_message(m, p, a, A):
 	s = 0
